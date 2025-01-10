@@ -14,8 +14,8 @@ pip install pycounts_llx98
 as follows:
 
 ```python
-from pycounts.pycounts import count_words
-from pycounts.plotting import plot_words
+from pycounts_llx98.pycounts_llx98 import count_words
+from pycounts_llx98.plotting_llx98 import plot_words
 import matplotlib.pyplot as plt
 
 file_path = "test.txt"  # path to your file
@@ -32,7 +32,7 @@ By contributing to this project, you agree to abide by its terms.
 
 ## License
 
-`pycounts` was created by Tomas Beuzen. It is licensed under the terms
+`pycounts_llx98` was created by Lixuan Lin. It is licensed under the terms
 of the MIT license.
 
 ## Credits
