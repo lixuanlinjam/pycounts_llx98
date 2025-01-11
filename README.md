@@ -1,4 +1,4 @@
-# pycounts
+# pycounts_llx98
 
 Calculate word counts in a text file!
 
@@ -10,7 +10,7 @@ pip install pycounts_llx98
 
 ## Usage
 
-`pycounts` can be used to count words in a text file and plot results
+`pycounts_llx98` can be used to count words in a text file and plot results
 as follows:
 
 ```python
@@ -37,7 +37,7 @@ of the MIT license.
 
 ## Credits
 
-`pycounts` was created with 
+`pycounts_llx98` was created with 
 [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and 
 the `py-pkgs-cookiecutter` 
 [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
